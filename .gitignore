@@ -1,0 +1,1 @@
+# Ignore local Python env\nday11/hiring_app/venv/\n__pycache__/\n*.py[cod]\n
